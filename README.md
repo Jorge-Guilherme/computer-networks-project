@@ -9,11 +9,11 @@ Jorge Guilherme Luna de Vasconcelos Cabral, login-jglvc
 José Janailson de Arruda Cunha, login-jjac
 
 ## 📜 Funcionalidades
-✅ Envio e recebimento de mensagens via UDP utilizando arquivos **.txt**
-✅ Notificação quando um novo usuário entra na sala
-✅ Notificação quando um usuário sai da sala
-✅ Troca de arquivos entre os usuários
-✅ Suporte a múltiplos clientes simultaneamente
+✅ Envio e recebimento de mensagens via UDP utilizando arquivos **.txt**  
+✅ Notificação quando um novo usuário entra na sala  
+✅ Notificação quando um usuário sai da sala  
+✅ Troca de arquivos entre os usuários  
+✅ Suporte a múltiplos clientes simultaneamente  
 
 ## 🚀 Tecnologias Utilizadas
 - **Python 3**
