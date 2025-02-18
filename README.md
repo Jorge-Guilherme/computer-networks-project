@@ -4,9 +4,9 @@
 Este projeto implementa um **chat baseado em arquivos** utilizando **UDP** em Python. Os clientes podem se conectar a um servidor, trocar mensagens e compartilhar arquivos **.txt**. O servidor gerencia a comunicação entre os clientes, retransmitindo mensagens e notificando eventos de entrada e saída da sala.
 
 ## Equipe 4
-Diego Davis Melo,  login-ddm
-Jorge Guilherme Luna de Vasconcelos Cabral, login-jglvc
-José Janailson de Arruda Cunha, login-jjac
+Diego Davis Melo <ddm>  
+Jorge Guilherme Luna de Vasconcelos Cabral <jglvc>  
+José Janailson de Arruda Cunha <jjac>  
 
 ## 📜 Funcionalidades
 ✅ Envio e recebimento de mensagens via UDP utilizando arquivos **.txt**  
