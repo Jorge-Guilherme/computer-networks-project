@@ -1,0 +1,3 @@
+Usuários na sala:
+127.0.0.1:36775/~jorge
+127.0.0.1:43062/~silas

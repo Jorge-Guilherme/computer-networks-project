@@ -1,2 +1,0 @@
-Usuários na sala:
-127.0.0.1:34442/~Jorge
